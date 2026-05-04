@@ -1,0 +1,14 @@
+year,data_source,total_crashes,fatal_count,severe_count,visible_injury_count,nonvisible_injury_count,property_damage_count,notes
+2015,Original PDF memo,13,0,1,3,0,9,Original corridor table
+2016,Original PDF memo,5,0,0,2,1,2,Original corridor table
+2017,Reconstructed corridor,10,0,0,3,0,7,Matches original total; severity split from current reconstruction
+2018,Reconstructed corridor,15,0,3,3,1,8,Matches original total and severity split
+2019_before,Reconstructed corridor,9,0,0,2,0,7,Jan-Sep 2019; one fewer than original memo
+2019_during,Reconstructed corridor,6,0,0,3,0,3,Oct-Dec 2019
+2020,Reconstructed corridor,7,0,0,4,0,3,Current reconstruction
+2021,Reconstructed corridor,6,0,0,0,1,5,Current reconstruction
+2022_jan_jun,Reconstructed corridor,4,0,0,2,0,2,Assumes effective cutoff was June 30 2022
+2022_full,Reconstructed corridor,11,0,0,2,0,9,Full 2022 from current data
+2023,Reconstructed corridor,10,0,0,2,0,8,Current reconstruction
+2024,Reconstructed corridor,12,0,2,2,0,8,Current reconstruction
+2025_ytd,Reconstructed corridor,5,0,0,2,0,3,Through 2025-06-19 in current data
